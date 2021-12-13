@@ -1,5 +1,5 @@
-<h1 align="center">Oi, eu sou o Mateus Fontoura</h1>
-<h3 align="center">Um desenvolvedor Full-Stack apaixonado por tecnologia</h3>
+<h1 align="center">Hello, i'm Mateus Fontoura</h1>
+<h3 align="center">Full-stack developer passionate about technology</h3>
 <div align="center">
     <a href="https://github.com/fontourasantana">
         <img height="180em"
@@ -8,7 +8,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=fontourasantana&layout=compact&langs_count=8&hide=html" />
 </div>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
@@ -106,7 +106,7 @@
             alt="webpack" width="40" height="40" />
     </a>
 </p>
-<h3 align="left">Contato:</h3>
+<h3 align="left">Contact:</h3>
 <div>
     <a href="https://www.linkedin.com/in/mateus-fontoura-1838a7145/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
